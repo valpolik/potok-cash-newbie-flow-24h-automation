@@ -48,6 +48,15 @@ https://t.me/valpolik
 
 ![](https://komarev.com/ghpvc/?username=potok-cash-newbie-flow-24h-automation&label=Repo+views)
 
+
+
+
+## Related user-scripts
+
+https://github.com/valpolik/potok-cash-growing-flow-24h-automation
+
+https://github.com/valpolik/potok-cash-newbie-flow-24h-automation
+
 ---
 
 ## Donate
@@ -59,3 +68,4 @@ TFxogW8ej5zQbANNG1e2eeEaPbsTr9hhTZ
 - Go to **Finance** → **Bybit Pay** → **Send**
 - UID: `21102550`
 - Accepts: USDT, BTC, ETH, LTC, and more
+
