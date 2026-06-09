@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Potok Cash Bonus Keeper [newbie]
 // @namespace    https://potok.cash/cabinet
-// @version      20260525054846
+// @version      20260609082659
 // @description  Automation for pressing bonus button each 24 hours
 // @author       https://github.com/valpolik/potok-cash-newbie-flow-24h-automation
 // @match        https://potok.cash/cabinet
